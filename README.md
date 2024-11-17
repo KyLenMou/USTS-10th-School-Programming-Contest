@@ -14,11 +14,11 @@
 
 | 题目列表                                                 |
 | -------------------------------------------------------- |
-| :dart:[Codeforces](problems\Codeforces)                  |
-| :recycle:[回文字符串](problems\回文字符串)               |
-| :bed:[叠被子](problems\叠被子)                           |
-| 🌐[双拼与全拼](problems\双拼与全拼)                       |
-| :triangular_flag_on_post:[构造数列](problems\构造数列)   |
-| :hole:[挖隧道](problems\挖隧道)                          |
-| :last_quarter_moon:[二进制月](problems\二进制月)         |
-| :eight_spoked_asterisk:[Slim走迷宫](problems\Slim走迷宫) |
+| :dart:[Codeforces](problems/Codeforces)                  |
+| :recycle:[回文字符串](problems/回文字符串)               |
+| :bed:[叠被子](problems/叠被子)                           |
+| 🌐[双拼与全拼](problems/双拼与全拼)                       |
+| :triangular_flag_on_post:[构造数列](problems/构造数列)   |
+| :hole:[挖隧道](problems/挖隧道)                          |
+| :last_quarter_moon:[二进制月](problems/二进制月)         |
+| :eight_spoked_asterisk:[Slim走迷宫](problems/Slim走迷宫) |
